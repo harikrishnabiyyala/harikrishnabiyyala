@@ -11,6 +11,7 @@ I’m a passionate **Java Full Stack Developer** with expertise in **High-Level 
 #### 🚀 **Backend Skills**
 - **Languages**: Java, Spring Framework, Spring Boot, Hibernate, Microservices
 - **APIs**: RESTful APIs
+- **Messaging** : ActiveMQ, RabbitMQ, Kafka
 - **Design Patterns**: Singleton, Factory, Observer, Builder, CQRS, SAGA, etc.
 
 #### 🎨 **Frontend Skills**
